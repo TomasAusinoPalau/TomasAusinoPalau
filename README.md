@@ -8,10 +8,11 @@
 - HTML
 - CSS
 - SASS
+- CYPRESS 
 
 ### Other aspects about me:
 
 - 🌱 I’m currently learning about data bases and NodeJS.
-- 💞️ I’m looking to collaborate on projects related with music, art or history. This are the topics that most influence me
+- 💞️ I’m looking to collaborate on projects related with music, art or history. This are the topics that most influence me.
 - 📫 How to reach me: tausinopalau@gmail.com
 
