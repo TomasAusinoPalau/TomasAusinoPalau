@@ -1,26 +1,27 @@
 # Hi there, I'm Tomas.
 
 :boy: I'm a Full Stack developer interested in technology and how it modify the interaction between humans and digital interfaces. 
+
 👨‍💼 I'm currently working on Intive as a Software Engineer with Scala.
+
+
+
 
 ## My skills :computer:
 
 - Scala 
 - Javascript
 - Java (Springboot)
-
-
-- HTML
-- CSS
-- SASS
-- CYPRESS 
-
 - Relational DB (MySQL)
 - Non-relationan DB (MongoDB)
 - Testing with ScalaTest
-
+- SASS
+- CYPRESS 
+---
 Knowdlege of Linux and Mac OS
+
 Object Oriented Programming
+
 Functional Programming
 
 ### Other aspects about me:
