@@ -1,11 +1,8 @@
 # Hi there, I'm Tomas.
 
-:boy: I'm a Back-end developer interested in technology and how it modify the interaction between humans and digital interfaces. 
+:boy: I'm a Back-end developer interested in technology and how it modify the interaction between humans through digital interfaces. 
 
-👨‍💼 I'm currently working on Intive as a Software Engineer with Scala.
-
-
-
+I have been working on projects that involve migrating monolithic architectures to microservices, following Domain-Driven Design (DDD) principles and leveraging event-driven architecture for decoupled and asynchronous processing.
 
 ## My skills :computer:
 
