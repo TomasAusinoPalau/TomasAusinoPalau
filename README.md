@@ -24,5 +24,6 @@ Knowdlege of Linux and Mac OS
 
 ### Last contributions from Mar. 2024 - Mar. 2025 on current job
 
-<img width="950" alt="image" src="https://github.com/user-attachments/assets/6c5da80e-75f2-4e31-b2e2-13ade2e9ef8b" />
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/a47b3f26-8bc0-46d4-a52f-0b1634d7a5d4" />
+
 
